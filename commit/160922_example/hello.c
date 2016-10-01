@@ -1,8 +1,7 @@
-
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
-printf("Hello TCPL!");
-return 0;
-}
+    printf("hello TCPL.\n);
 
+    return 0;
+ }
