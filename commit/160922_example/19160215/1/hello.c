@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("hello TCPL.\n);
-
+    printf("Hello TCPL");
     return 0;
- }
+}
+
