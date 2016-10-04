@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 int main()
 {
@@ -10,4 +9,3 @@ int main()
   printf("%d,%d\n",'0'+x1,'0'+x2);
   return 0;
 }
-
