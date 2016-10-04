@@ -1,12 +1,8 @@
 #include<stdio.h>
-int main ()
+
+int main()
 {
-printf("hello TCPL");
+printf("hello TCPL!");
 return 0;
 }
-
-
-
-
-
 
