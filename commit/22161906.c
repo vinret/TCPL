@@ -1,6 +1,6 @@
-/*i*/#include <stdio.h>
+#include <stdio.h>
 int main()
 {
-    printf("Hello TCPL")
+    printf("Hello TCPL");
     return 0;
-} 
+}
