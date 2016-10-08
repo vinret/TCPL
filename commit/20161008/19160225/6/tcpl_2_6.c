@@ -6,7 +6,7 @@ int main(){
  scanf("%s%d%d%s",x,&p,&n,y);
  len=strlen(y);
  for (int i=0;i!=n;++i)
-     x[p+i-1]=y[len-n+i];
+     x[p+i-1]=y[len-n+i-1];
  printf("%s\n",x);
  return 0;
 }
