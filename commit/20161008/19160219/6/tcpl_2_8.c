@@ -1,17 +1,16 @@
 #include<stdio.h>
 int main()
 {
-unsigned short x,a,b;
-int n;
-
+unsigned short x,y,z;
+short int n;
 printf("x=");
 scanf("%o",&x);
 printf("n=");
 scanf("%d",&n);
-
-a=x>>n;
-b=x<<(16-n);
-x=a|b;
-printf("%o\n",x);
+y=x<<(16-n);
+z=x>>n;
+z=z|y;
+printf("%o\n",z);
 return 0;
 }
+

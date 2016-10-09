@@ -1,21 +1,22 @@
 #include<stdio.h>
 int main()
 {
-unsigned short x,y,z;
-int n,p;
-
+unsigned long x,y,z;
+int p,n;
 printf("x=");
 scanf("%o",&x);
 printf("y=");
 scanf("%o",&y);
-printf("n=");
-scanf("%d",&n);
 printf("p=");
 scanf("%d",&p);
-
-x=x&~(~(~0<<n)<<(p+1-n));
-y=(y&~(~0<<n))<<(p+1-n);
-z=x|y;
+printf("n=");
+scanf("%d",&n);
+z=x>>(8-p);
+z=z^8;
+y=y>>n;
+y=y<<n;
+z=y|z;
 printf("%o\n",z);
 return 0;
 }
+
