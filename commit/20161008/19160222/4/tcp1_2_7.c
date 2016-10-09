@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-unsigned x;
+unsigned short x;
 int p,n;
 
 printf("x=");

@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-unsigned x,a,b;
+unsigned short x,a,b;
 int n;
 
 printf("x=");
@@ -10,7 +10,7 @@ printf("n=");
 scanf("%d",&n);
 
 a=x>>n;
-b=x<<(8-n);
+b=x<<(16-n);
 x=a|b;
 printf("%o\n",x);
 return 0;
