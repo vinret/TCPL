@@ -7,7 +7,7 @@ int main()
     unsigned short int x;
 
     printf("int  size=%lu\n",sizeof(c));
-    printf("unsigned size=%lu\n",sizeof(i));
+    printf("unsigned int size=%lu\n",sizeof(i));
     printf("short int size=%lu\n",sizeof(z));
     printf("unsigned short int size=%lu\n",sizeof(x));
 
