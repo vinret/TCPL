@@ -1,20 +1,5 @@
 #include <stdio.h>
 int main()
-{
-   printf("Hello TCPL.\n");
+{   printf("hello\n");
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

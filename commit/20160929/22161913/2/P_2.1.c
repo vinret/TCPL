@@ -8,11 +8,8 @@ int main()
     area = PI* radius * radius;
     circumference = 2*PI *radius;
     printf("area=%f\n", area);
-    printf("circumference=%f\n", circumference);
-<<<<<<< HEAD
-   
-=======
+    printf("circumference =%f\n", circumference);
 
->>>>>>> d66e579bc5dcb378624dff57f340a7d01cf027ee
     return 0;
 }
+
