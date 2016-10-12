@@ -3,7 +3,7 @@
  {
 
   int i;
-  long int;
+  long int li;
   signed long int sli;
   unsigned int ui;
   unsigned long int uli;
@@ -13,7 +13,7 @@
 
   
 
-  printf("int size=%\n",sizeof(i));
+  printf("int size=%d\n",sizeof(i));
   printf("long int size=%d\n",sizeof(li));
   printf("signed long int size=%d\n",sizeof(sli));
   printf("unsigned int size=%d\n",sizeof(ui));
