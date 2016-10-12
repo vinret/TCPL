@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 int main()
 {
@@ -11,3 +12,4 @@ int main()
     printf("unsigned short int size=%d\n",sizeof(z));
     return 0;
 }
+
