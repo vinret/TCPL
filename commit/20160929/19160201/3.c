@@ -8,3 +8,6 @@ printf("%d,%d,%d\n",a,b,c);
 printf("%d\n",M*4);
 return 0;
 }
+
+
+
