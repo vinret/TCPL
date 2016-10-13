@@ -1,0 +1,1669 @@
+[33mcommit 1be6965ed995634953e8e7a320df9a9ae64df6c6[m
+Author: 19160208 <1835225627@qq.com>
+Date:   Sun Oct 9 13:01:09 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add for 160922_example      19160208
+
+[33mcommit 41cd5d01879dc73ab096b92ed195300cde205e46[m
+Merge: d4ee36c aca5626
+Author: 19160208 <1835225627@qq.com>
+Date:   Fri Oct 7 20:23:07 2016 +0800
+
+    erge branch 'master' of github.com:NNU-CS16/TCPL
+    Add work for 160922- 19160208
+
+[33mcommit d4ee36c482817299f4a88720209c14c010a31347[m
+Author: 19160208 <1835225627@qq.com>
+Date:   Fri Oct 7 20:03:27 2016 +0800
+
+    all work for 160922   19160208 刘文杰   一开始好像没交成功
+
+[33mcommit aca5626db75289812ffc49b44912a6e2c72494ff[m
+Author: 22161915 <744315039@qq.com>
+Date:   Fri Oct 7 19:47:52 2016 +0800
+
+    Add work for 160929 -22161915
+
+[33mcommit fcb8f9a30644192e6f18dde3c2a008fe940a2689[m
+Merge: 57f67f7 1e26ed9
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Thu Oct 6 22:32:08 2016 -0700
+
+    Add work-19160224
+
+[33mcommit 57f67f7da9ea1b2bd864263c3c871bd30d59ea07[m
+Merge: 46b1f84 f613894
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Thu Oct 6 21:56:52 2016 -0700
+
+    Add work_19160224
+
+[33mcommit 1e26ed92716cf8fcfab0883b33b923475b3dd1ed[m
+Author: shihe <2053104031@qq.com>
+Date:   Fri Oct 7 09:50:37 2016 +0800
+
+    All work for 20160929:22161902 wangshang
+
+[33mcommit c5d1bcbe52e82e2ffbc6936c1d1e347f04a59a33[m
+Author: 22161917 <1274024886@qq.com>
+Date:   Thu Oct 6 09:07:58 2016 -0700
+
+    Add work for 20160929-22161917-Chen,yixin
+
+[33mcommit 78048490f9b590a92b1878748ebe86fb96345135[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Thu Oct 6 23:40:32 2016 +0800
+
+    Recovery.
+
+[33mcommit 0c4cbb980c6d73c274e6c84d4ca9eb9363e49b36[m
+Merge: ac097f4 ff778a7
+Author: 22161928 <774645883@qq.com>
+Date:   Thu Oct 6 22:25:53 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit ac097f4a12a3014853485f03263f80f60b0d2f92[m
+Author: 22161928 <774645883@qq.com>
+Date:   Thu Oct 6 22:01:51 2016 +0800
+
+    Add work for 160929-22161928
+
+[33mcommit ff778a77e874c5cf93c5ddf568bddf26e97d8571[m
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Thu Oct 6 20:55:23 2016 +0800
+
+    add work for 20160929 22161013 Qiaoru Zhang
+
+[33mcommit 4a6ee6cafb6449bb0bc5d62a896a984c4fd1e8a4[m
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Thu Oct 6 20:24:39 2016 +0800
+
+    add work for 20160929 22161913 Qiaoru Zhang
+
+[33mcommit 43a084deb4f96f08b1b5324321b6adcb1d46076a[m
+Merge: 138daf2 0db479d
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Thu Oct 6 20:13:02 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 138daf26f355e66d14e71dcc7a61118cfa50cd43[m
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Thu Oct 6 20:10:58 2016 +0800
+
+    add work for 20160929 22161913 Qiaoru Zhang
+
+[33mcommit 0db479da694131bd18ddc4804305dde891149006[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Thu Oct 6 04:59:00 2016 -0700
+
+    Add work for 20160929 - 19160213
+
+[33mcommit a89b57aff6eab45b2aab67f57de3e99bdf039ce4[m
+Merge: e3f5910 ccea154
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Thu Oct 6 04:47:41 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit e3f59104662bd9966ffda1732f12115e3614e252[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Thu Oct 6 04:45:52 2016 -0700
+
+    Add work for 20160929 - 19160213
+
+[33mcommit ccea154ccc3357d92c7e5abdc03393b24504f05b[m
+Merge: 33a5182 b62f38c
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Thu Oct 6 19:42:31 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit b62f38c4b433e57336de6d136139d804d9c0f377[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Thu Oct 6 04:35:19 2016 -0700
+
+    Add word for 20160929 - 19160213
+
+[33mcommit 33a5182115fcd099e7fb6053dcc226246cbf6205[m
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Thu Oct 6 19:33:01 2016 +0800
+
+    add work work for 20160929 22161913 Qiaoru Zhang
+
+[33mcommit 0c3cafd66c52b913548513e0d5c3befa56c39bbc[m
+Merge: 2156588 1ff6a16
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Thu Oct 6 04:06:01 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 2156588c21466d087ea60a78901510851d52ca9e[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Thu Oct 6 04:01:43 2016 -0700
+
+    Add work for 20160929 - 19160213
+
+[33mcommit 1ff6a1682b035e01ff48ba7ad507cd8dae535896[m
+Merge: 7047e36 614460b
+Author: 22161917 <1274024886@qq.com>
+Date:   Wed Oct 5 23:06:36 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 7047e36b96652270270a8ee568485033d5a31d91[m
+Author: 22161917 <1274024886@qq.com>
+Date:   Wed Oct 5 23:03:41 2016 -0700
+
+    Add work for 20160929-22161917-chenyixin
+
+[33mcommit 614460b9227951c6837fa0f4f2776453abd47ccb[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Thu Oct 6 12:26:18 2016 +0800
+
+    Upload TCPL_2rd_EN FYI.
+
+[33mcommit 7099656a772399ebb9515f5d49cce03d5c2e5f56[m
+Author: 19160208 <1835225627@qq.com>
+Date:   Thu Oct 6 10:43:30 2016 +0800
+
+    All work for 160922-  19160208
+
+[33mcommit 5b7ffab31b7d9834eeeda522f817f5649e90babf[m
+Author: 19160217 <1479295618@qq.com>
+Date:   Wed Oct 5 19:22:50 2016 -0700
+
+    Add work-19160217
+
+[33mcommit 167518c9b1b5adcaec0e439bb5c4b0dceecbefea[m
+Author: Yufeng <2770116745@qq.com>
+Date:   Thu Oct 6 00:14:10 2016 +0800
+
+    Add work for 160929 liyufeng
+
+[33mcommit fe1a8398623ab019b6213cdcb4d24af56e883f8e[m
+Merge: 8f81192 5f0afbf
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 23:53:30 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 5f0afbf53f2312e82d123c2f0e5258ef52092d29[m
+Merge: 8014551 4d81e35
+Author: Yingxue Rao <845818720@qq.com>
+Date:   Wed Oct 5 23:20:54 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 801455160db82d309b1efbae52b6b0862b601580[m
+Author: Yingxue Rao <845818720@qq.com>
+Date:   Wed Oct 5 23:16:42 2016 +0800
+
+    Add work for 20160929 - 22161924, Yingxue Rao
+
+[33mcommit 8f811921419112bc3f5f443fae4349e79fb231f7[m
+Merge: d54f6f5 4d81e35
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 23:12:23 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit d54f6f58dfaddac4d7e398ae76d33b4f09e51779[m
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 23:09:09 2016 +0800
+
+    Add work for 160929 liyufeng
+
+[33mcommit ad6d26a1508c0c6ba1fac9d3b1c652841d5e59a3[m
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 22:50:53 2016 +0800
+
+    Add work for 160929 liyufeng
+
+[33mcommit 91c9c82e233772020331c578536353b9824cf779[m
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 22:30:56 2016 +0800
+
+    Add  work for 160929 liyufeng
+
+[33mcommit 4d81e35ad131fc118a5af68ce4c3609855c10d73[m
+Merge: 0ce4e05 f0af4cb
+Author: luozhengji <1092232702@qq.com>
+Date:   Wed Oct 5 07:17:38 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 0ce4e05442622c7309f8bb05c22ef1c8ae169116[m
+Author: luozhengji <1092232702@qq.com>
+Date:   Wed Oct 5 07:17:24 2016 -0700
+
+    Add work-19160222
+
+[33mcommit f0af4cb7d651e150d01d54e9864c26be881fe825[m
+Merge: a1855a1 4a4d00a
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Wed Oct 5 22:15:43 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit a1855a1bbfd0385ecad6a2832700b770508d74eb[m
+Author: qiaoruzhang <3523105692@qq.com>
+Date:   Wed Oct 5 22:11:36 2016 +0800
+
+    Add work for 160922-22161913Qiaoru Zhang
+
+[33mcommit 4a4d00aee3be59543714f18cc3ba9f72fd41b830[m
+Author: luozhengji <1092232702@qq.com>
+Date:   Wed Oct 5 06:54:34 2016 -0700
+
+    Add work-19160222
+
+[33mcommit 5476a87bce3bbbdea5781dd4deb9f53cdf194604[m
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 21:45:50 2016 +0800
+
+    Add work for 160929 liyufeng
+
+[33mcommit 935a7b565ac04a4b8e07381ac18ce2d5a1db2e75[m
+Merge: b4eb384 b5223b6
+Author: CQV <1610006954@qq.com>
+Date:   Wed Oct 5 21:20:24 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit b4eb38446fc2d65bf455f53b9db8c76e95276c02[m
+Author: CQV <1610006954@qq.com>
+Date:   Wed Oct 5 21:18:55 2016 +0800
+
+    Add work for 160922_example -22161905-longchengli
+
+[33mcommit b5223b6322b9897da804243ab86365ccd8a25202[m
+Merge: 6ebf7f3 68a5fe0
+Author: Shenbowen <1085478558@qq.com>
+Date:   Wed Oct 5 05:51:54 2016 -0700
+
+    Add work-19160218
+
+[33mcommit 6ebf7f318700d1273d2f5686517ea8ada5d85287[m
+Merge: 9312c23 2f99cd5
+Author: Shenbowen <1085478558@qq.com>
+Date:   Wed Oct 5 05:39:08 2016 -0700
+
+    Add work-19160218
+
+[33mcommit 68a5fe07229ef74c12fade1e23cbdcfa99a55c1a[m
+Merge: c8ce0e2 4c9ee3e
+Author: wuhongxuan <1024695854@qq.com>
+Date:   Wed Oct 5 19:48:23 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit c8ce0e29f4f554474061a1213c35b3ef143842b9[m
+Author: wuhongxuan <1024695854@qq.com>
+Date:   Wed Oct 5 19:45:42 2016 +0800
+
+    Add work for 20160929-19160215wuhongxuan
+
+[33mcommit 4c9ee3e50b7dac4a77de7596aa6ec1fa7d70c33d[m
+Merge: 0cb5cb5 abc90d7
+Author: ChenLuting <1277633781@qq.com>
+Date:   Wed Oct 5 19:21:56 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit abc90d7d43f058d9ad5d49d73fee4073a09c89ec[m
+Merge: 346225a fcba46a
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 19:14:03 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 346225a13b009df5e024ac80b1bcb95b9006a4d9[m
+Author: Yufeng <2770116745@qq.com>
+Date:   Wed Oct 5 19:09:12 2016 +0800
+
+    Add work for 160922_example -李玉凤 22161910
+
+[33mcommit fcba46a0a4192f5e90927f7e8e6545dcf51e7d33[m
+Merge: a2e35b5 7f0738b
+Author: 19160211 <m13181302192@163.com>
+Date:   Wed Oct 5 19:00:00 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    Add work for 160922-19160211
+
+[33mcommit 0cb5cb508f6b7d504bd1ba145e8d447ac44c5725[m
+Author: ChenLuting <1277633781@qq.com>
+Date:   Wed Oct 5 18:49:46 2016 +0800
+
+    Add work for 160922_22161923,JinXiao
+
+[33mcommit 7f0738b7d45f329fbcc763b78d21c981522f7fbf[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Wed Oct 5 17:44:10 2016 +0800
+
+    Recovery.
+
+[33mcommit b9eca223e44ddabd0c2d7c95fb6a388cdfc5badb[m
+Author: wangguangwei <1074549067@qq.com>
+Date:   Wed Oct 5 00:35:24 2016 -0700
+
+    Add work-19160202
+
+[33mcommit a6c0eafd3c217a2345eb010c6e6044c6b19c5f9d[m
+Merge: e73acb2 53f688e
+Author: hexiangjin19160216 <241193106@qq.com>
+Date:   Wed Oct 5 00:30:09 2016 -0700
+
+    Add work-19160216
+
+[33mcommit e73acb289a90586f3523e95d9e1c4e871c9a01e0[m
+Author: hexiangjin19160216 <241193106@qq.com>
+Date:   Wed Oct 5 00:28:42 2016 -0700
+
+    Add work-19160216
+
+[33mcommit 53f688ed6b081d63b67188cc402c4c9fd07052c1[m
+Merge: 839b028 9c07714
+Author: Jiang <932988567@qq.com>
+Date:   Wed Oct 5 15:26:32 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 839b0287c1fe6c4601a4de8492dffc44c182484f[m
+Author: Jiang <932988567@qq.com>
+Date:   Wed Oct 5 15:25:37 2016 +0800
+
+    Add work for 20160929 -22161926 YiYun Jiang
+
+[33mcommit c4ad03f81c52b692dbad5ccec99920e433e0fc8f[m
+Author: Jiang <932988567@qq.com>
+Date:   Wed Oct 5 14:52:22 2016 +0800
+
+    Add work for20160929 -22161926 YiYun Jiang
+
+[33mcommit c2c15eb519c1c24b1a1c117526aba60311fc6fb8[m
+Author: Jiang <932988567@qq.com>
+Date:   Wed Oct 5 13:43:50 2016 +0800
+
+    Add work for 20161926-22161926 YiYun Jiang
+
+[33mcommit a2e35b53abc276501c26b8b63660c5f8e89b8369[m
+Merge: d0a6161 9c07714
+Author: 19160211 <m13181302192@163.com>
+Date:   Wed Oct 5 13:01:28 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit d0a6161a853399df82a00ba08957daf9e5c7ad45[m
+Author: 19160211 <m13181302192@163.com>
+Date:   Wed Oct 5 12:53:38 2016 +0800
+
+    Add work for 160922-19160211
+
+[33mcommit 9c077140ea916d78a636611c99a457869ec347cc[m
+Author: 19160229 <1300687449@qq.com>
+Date:   Tue Oct 4 21:45:49 2016 -0700
+
+    Add work-19160232
+
+[33mcommit 2c3ec9db5b04479ae03cc7af501a8560852c8da4[m
+Author: 19160229 <1300687449@qq.com>
+Date:   Tue Oct 4 19:46:33 2016 -0700
+
+    Add work-19160230
+
+[33mcommit 3d46c48397022dcc8f2eec29dc4fecf0f95041d4[m
+Author: 22161906 <15005522566@163.com>
+Date:   Wed Oct 5 09:07:09 2016 +0800
+
+    add for work 160922_example-22161906
+
+[33mcommit 1da1598fb2cc97145f5aa140bdd29b805ad0706e[m
+Merge: b061847 6e818af
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 23:42:35 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add for work 160922_example-22161906
+
+[33mcommit b061847ca7c84afd7c1a8cef649f600f4c10b41d[m
+Merge: be91b54 2f7618f
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 23:39:51 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add work for 160922_example-22161906
+
+[33mcommit efecbc5856bd98bce7cbcd9ab75cbb8838984ef5[m
+Merge: 92a21b0 6e818af
+Author: ChenLuting <1277633781@qq.com>
+Date:   Tue Oct 4 23:34:41 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 6e818afedc2d40d04b233f0e4a77e3571f3b00b3[m
+Merge: 63ab09f b6f4e19
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Tue Oct 4 08:32:35 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 63ab09fabd22bb3a3d3c44d7b5828a1d1099a342[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Tue Oct 4 08:28:31 2016 -0700
+
+    add work for 160922 - 19160201
+
+[33mcommit 92a21b0674590c4cb556510c4582aae628f16105[m
+Merge: cbafcb5 b6f4e19
+Author: ChenLuting <1277633781@qq.com>
+Date:   Tue Oct 4 23:27:20 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit b6f4e19fbca25e8a00df626b92be9e6f8d100608[m
+Merge: 91d4fef ba60462
+Author: zhangqian <909580923@qq.com>
+Date:   Tue Oct 4 23:17:19 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 91d4fef7d3e3279b20975ce8d1e7d4f8c9a2edfc[m
+Author: zhangqian <909580923@qq.com>
+Date:   Tue Oct 4 23:15:09 2016 +0800
+
+    add work for 22161914 zhangqian
+
+[33mcommit ba60462e6d0d7f4e9d47511d27fcb1586b736c4e[m
+Merge: d7d4ae0 30cd629
+Author: xubing19160231 <1962892111@qq.com>
+Date:   Tue Oct 4 08:04:32 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit d7d4ae0442e564193f42a0024c1a8763c4dafe36[m
+Author: xubing19160231 <1962892111@qq.com>
+Date:   Tue Oct 4 08:03:24 2016 -0700
+
+    Add work-19160231
+
+[33mcommit 30cd629c481c959c5a89be2cb759e2575623e368[m
+Merge: f8fd53a a232ea1
+Author: cyx <736588845@qq.com>
+Date:   Tue Oct 4 07:32:18 2016 -0700
+
+    Add work-19160234
+
+[33mcommit a232ea1ec4d3f90e3f4420ba15fbaabe33f6f16b[m
+Merge: b9668c9 2f7618f
+Author: 19160235 <2874967992@qq.com>
+Date:   Tue Oct 4 15:26:26 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit b9668c991d136bb73b76eae1169fb5fce80f3c57[m
+Author: 19160235 <2874967992@qq.com>
+Date:   Tue Oct 4 15:25:08 2016 -0700
+
+    Add work-19160235
+
+[33mcommit f8fd53aee7eac22f9fbe39f0f3f3d352fc8ebb2a[m
+Author: cyx <736588845@qq.com>
+Date:   Tue Oct 4 07:31:40 2016 -0700
+
+    Add work-19160234
+
+[33mcommit be91b542c3834d095e4afc177d72a5d839ca307d[m
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 22:11:01 2016 +0800
+
+    add work for 160922_example-22161906
+
+[33mcommit 5fa3531b3b76abbd6cd994e4f8c938a4f409fff0[m
+Merge: 03ef57b 2f7618f
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Tue Oct 4 07:09:03 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 2f7618fb82b5cc44bf26630b861ce20a3fec28de[m
+Merge: be893b1 ac315ae
+Author: 19160221_chenzhiran <13611587192@163.com>
+Date:   Tue Oct 4 21:57:23 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 49b5ceae748e8492e685e24fde09383d7e240585[m
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 21:54:35 2016 +0800
+
+    add work for 20160922 22161906 lvyizuo
+
+[33mcommit ac315ae2cd50f16bdf3b9cc91c399f956a85c069[m
+Merge: 673a9aa f613894
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 21:50:02 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit be893b1c72bb95b33a96dc6c9758c3777435c8dc[m
+Author: 19160221_chenzhiran <13611587192@163.com>
+Date:   Tue Oct 4 21:47:34 2016 +0800
+
+    Add work for 20160929_19160221,chenzhiran
+
+[33mcommit 46b1f8454491986221a3ddf6a81649cab426f6a4[m
+Merge: 016d6af e14a09a
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Tue Oct 4 06:44:33 2016 -0700
+
+    Add work 19160224
+
+[33mcommit f613894f2fd141d0b2cb15e8613b00846f0b37d5[m
+Merge: 71b58ef 9ebe4fe
+Author: cyx <736588845@qq.com>
+Date:   Tue Oct 4 06:29:07 2016 -0700
+
+    Add work-19160234
+
+[33mcommit 71b58ef797b487cad3c2eda1fbccec19eb37025f[m
+Author: cyx <736588845@qq.com>
+Date:   Tue Oct 4 06:27:28 2016 -0700
+
+    Add work-19160234
+
+[33mcommit cbafcb5afa974d7e9a5fc33e0ccd29bb288918b4[m
+Author: ChenLuting <1277633781@qq.com>
+Date:   Tue Oct 4 21:26:30 2016 +0800
+
+    Add work for 20160929-22161920,Chenluting
+
+[33mcommit 9ebe4fe703008839109cbb288230b37fb6fda928[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 21:05:26 2016 +0800
+
+    Recovery.
+
+[33mcommit 37026df0983b2255a5e70e6ba9e3794b70fb18a8[m
+Merge: 262d099 955515b
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 20:56:37 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 262d09900559df53d5621f61fd02acda02aeb5cd[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 20:56:00 2016 +0800
+
+    Recovery.
+
+[33mcommit 955515b2ba105352f9376ec5292f2cb8549960c6[m
+Merge: e000f2e c259eed
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 20:50:13 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit e000f2e01c79c6170ed1df4ccff2169359129aff[m
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 20:42:41 2016 +0800
+
+    add work for 20160922 22161906lvyizuo
+
+[33mcommit c259eedd634ab479a7a1c1608b745c4753ce86eb[m
+Merge: 49c73b9 f212590
+Author: ShuHan Liu <shuh_lau@163.com>
+Date:   Tue Oct 4 20:40:50 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add work for160922_example22161908
+
+[33mcommit f21259051cd740b7b33d70ad5104126a42ca1a9c[m
+Merge: f8c761f cb9c83d
+Author: yishan Ding <772096868@qq.com>
+Date:   Tue Oct 4 20:39:32 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 49c73b90bedadf2204c11eeae2924054d9ce2dbf[m
+Author: ShuHan Liu <shuh_lau@163.com>
+Date:   Tue Oct 4 20:34:21 2016 +0800
+
+    add work for160922_example22161908
+
+[33mcommit cb9c83d6145143933545a61e62220876fc8c17ae[m
+Merge: eec8966 4b8ab22
+Author: 19160238 <1375533082@qq.com>
+Date:   Tue Oct 4 20:31:27 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit f8c761f3adae5889315f555cd479815312a11d2c[m
+Author: yishan Ding <772096868@qq.com>
+Date:   Tue Oct 4 20:30:45 2016 +0800
+
+    Add work for 20160929-22161901
+
+[33mcommit eec896685bcb475bb41a81bf1d30dafb35da7d86[m
+Author: 19160238 <1375533082@qq.com>
+Date:   Tue Oct 4 20:29:03 2016 +0800
+
+    Add for work 20160929_19160238
+
+[33mcommit 64e541747fe106537117f2c680981254b2eb2580[m
+Author: 19160238 <1375533082@qq.com>
+Date:   Tue Oct 4 20:24:37 2016 +0800
+
+    Add for work 20160929-19160238
+
+[33mcommit 03ef57b2765b4506a21027e3ddb4c09033113dd6[m
+Merge: 80a7e71 4b8ab22
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Tue Oct 4 05:06:52 2016 -0700
+
+    ;wq
+    erge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 4b8ab220b865410c6b5da1f8acf912f50c914853[m
+Merge: 5f5d456 e14a09a
+Author: 22161928 <774645883@qq.com>
+Date:   Tue Oct 4 19:52:49 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 80a7e7142ce2f24f35c9c7c1372a4a5f15a2ea04[m
+Merge: 3e912e9 9fb1359
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Tue Oct 4 04:49:09 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 016d6afd041abfb369418cfb853457a973fa4bd1[m
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Tue Oct 4 04:46:46 2016 -0700
+
+    Add work -19160224
+
+[33mcommit e14a09afff6f09f8a8722db56dc5fa970779fae2[m
+Merge: b9d8ab4 9fb1359
+Author: 22161919 <3366013267@qq.com>
+Date:   Tue Oct 4 19:46:42 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 3e912e9e79b51e08c6d5f32c0fccf99110bc02bf[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Tue Oct 4 04:40:47 2016 -0700
+
+    add work for 160922 19160201
+
+[33mcommit b9d8ab4e20332456e668a4f2f358100326da2126[m
+Author: 22161919 <3366013267@qq.com>
+Date:   Tue Oct 4 19:31:13 2016 +0800
+
+    Add work for 20160929-22161919,Jianing Chen.
+
+[33mcommit 673a9aa53250405263a0d868b79cd41f9f9af83c[m
+Merge: 3992e4a 9fb1359
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 19:11:57 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add work for 20160929-19160209
+
+[33mcommit 3992e4aad098f67cfe0c76ddc1075e31bd7f0d9b[m
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 19:04:16 2016 +0800
+
+    add work for 20160929-19160209
+
+[33mcommit 263f1c510e959c9521804701fa5438aaa7e9914d[m
+Author: 19160235 <2874967992@qq.com>
+Date:   Tue Oct 4 03:37:08 2016 -0700
+
+    Add homework for 160922-19160235
+
+[33mcommit cd21527ca6da072f611a6b7869a8089577b78651[m
+Author: ChenLuting <1277633781@qq.com>
+Date:   Tue Oct 4 18:15:07 2016 +0800
+
+    Add work for 160922-22161920,ChenLuting
+
+[33mcommit 9fb13597d94988432285cc4f1c092a32fcbcc4ae[m
+Merge: bbd8be9 6922334
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 18:07:13 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit bbd8be9f85a590f686e1eb6cfbd8090ba0df9e0c[m
+Author: 22161906 <15005522566@163.com>
+Date:   Tue Oct 4 17:46:16 2016 +0800
+
+    add work for 20160922
+
+[33mcommit 6922334ed46ea378900943da527fb53061bcbdc5[m
+Merge: bf96a79 2cd5297
+Author: qingcailan <APTX4689qcl@163.com>
+Date:   Tue Oct 4 17:44:59 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit bf96a79cc4262858cdf9384c28af7e989c136557[m
+Merge: 9c8a651 5ff672e
+Author: qingcailan <APTX4689qcl@163.com>
+Date:   Tue Oct 4 17:43:16 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 2cd5297b7e04d9dc7bc208bddfbd9b41a14b958b[m
+Author: Lingling <940309784@qq.com>
+Date:   Tue Oct 4 17:34:21 2016 +0800
+
+    add work for 160922 - 22161925
+
+[33mcommit f85b84d8c786cf1149576b84c9a13a0e7d12cfa5[m
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 17:29:29 2016 +0800
+
+    add work for 20160929-19160209
+
+[33mcommit 5ff672eed6df7bb596edf6ce6bac503a1eea1ac3[m
+Merge: 8ce4b17 b65827e
+Author: Minjie Li <459745836@qq.com>
+Date:   Tue Oct 4 15:55:50 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 8ce4b17d74446bb8b2179c0a963e80d479e2a49b[m
+Author: Minjie Li <459745836@qq.com>
+Date:   Tue Oct 4 15:53:38 2016 +0800
+
+    Add work for 20160929-22161911Minjie Li
+
+[33mcommit 9c8a651049d080d87180e2980a6e031587fe652e[m
+Author: qingcailan <APTX4689qcl@163.com>
+Date:   Tue Oct 4 15:38:04 2016 +0800
+
+    Add work for 160922_example-qingcailan 22161907
+
+[33mcommit b65827e27ac1cee632e1f88bef2a54eb6c2be46a[m
+Merge: 4338b1e 2f6e656
+Author: Wutianhang <diaor1998@163.com>
+Date:   Tue Oct 4 00:07:57 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add work for 160929-22161912
+
+[33mcommit 4338b1e34f76f03c919d1e88076d36d4c6755567[m
+Author: Wutianhang <diaor1998@163.com>
+Date:   Tue Oct 4 00:05:07 2016 -0700
+
+    add work for 160929-22161912
+
+[33mcommit 2f6e65683e8b4cba5963e1a5aaf9ac30a379f5b9[m
+Author: gjc <905235185@qq.com>
+Date:   Tue Oct 4 15:01:42 2016 +0800
+
+    All work for 160922:22161918
+
+[33mcommit 1d725cd3efb35a95c7d6242951605937dd07bac7[m
+Merge: 4f1b8b7 399edc9
+Author: gjc <905235185@qq.com>
+Date:   Tue Oct 4 14:38:43 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 4f1b8b7f2a7b249521373294e2dcc52357c25e22[m
+Author: gjc <905235185@qq.com>
+Date:   Tue Oct 4 14:34:26 2016 +0800
+
+    All work for 160922:22161918
+
+[33mcommit 399edc97acb68a3f03737edddb3ecf7b0d947eaf[m
+Merge: c6631fa f03cca9
+Author: 19160238 <1375533082@qq.com>
+Date:   Tue Oct 4 14:27:39 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit ee5f4dae3d7371f2b0964a42b9ecff8898307ff1[m
+Merge: a7b44e3 f03cca9
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 14:22:49 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit a7b44e3b13061289c5b12f1b9ca823fe20c271b4[m
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 14:11:03 2016 +0800
+
+    add work for 20160929-19160209liumingyu
+
+[33mcommit f03cca95821d65da78c4f23ae2e502dd0cb16bbf[m
+Merge: c9397bb b25e119
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 14:04:13 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit c9397bbb35464db1e5dd1aaa1eb073cdcedb283a[m
+Merge: 14dcf63 b431cdc
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 14:02:20 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 14dcf635e6fd47cae4e6ce25da56f09bd7581436[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 14:01:36 2016 +0800
+
+    Recovery.
+
+[33mcommit b25e119999a9e8867f1b479feea5fc64a66593bf[m
+Merge: 2bfb738 b431cdc
+Author: Ke Xu <847202177@qq.com>
+Date:   Tue Oct 4 14:01:03 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    Add work for 20160922 and 20160929---22161909
+
+[33mcommit 2bfb738c14b67f85513351e6994e5ecd673994b5[m
+Author: Ke Xu <847202177@qq.com>
+Date:   Tue Oct 4 13:58:46 2016 +0800
+
+    Add work for 20160922 and 20160929---22161909
+
+[33mcommit c6631fad0effcfae2971925ab7a67a03e448a025[m
+Merge: 853ba30 889f35b
+Author: 19160238 <1375533082@qq.com>
+Date:   Tue Oct 4 13:58:24 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 85c908edec3778ff4f1ded4ea7babbd2d9ea534e[m
+Merge: 6b1b9af 889f35b
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 13:54:29 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add work for 20160929-19160209
+
+[33mcommit b431cdc8f5eeefd2d9cb3a020109388b373700c2[m
+Merge: 1fcd5e7 889f35b
+Author: WZY <214239964@qq.com>
+Date:   Tue Oct 4 13:53:21 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 889f35b681ed2bc13a1dd3ab054a87f414991883[m
+Merge: f6baf7e 576d9b5
+Author: Wutianhang <diaor1998@163.com>
+Date:   Mon Oct 3 22:48:44 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 6b1b9afaaabd7c0cb75923e5ce3756b10bef9dfe[m
+Merge: 7edf0ae 576d9b5
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 13:48:17 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 7edf0ae7f042f8ea4e6e288042884698db7904da[m
+Author: liumingyu <924686743@qq.com>
+Date:   Tue Oct 4 13:45:50 2016 +0800
+
+    add work for 20160929-19160209
+
+[33mcommit 853ba3081e6ada8cd3c76d655326dc966cbe8438[m
+Author: 19160238 <1375533082@qq.com>
+Date:   Tue Oct 4 13:44:14 2016 +0800
+
+     Add work for 160922-19160238
+
+[33mcommit 576d9b55d9e0eb8193e3032cab816dd99d2a45a8[m
+Merge: d499cec 71e872b
+Author: root <1354725466@qq,com>
+Date:   Tue Oct 4 13:38:12 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit f6baf7edeb8fd9f5649bf98ce114db28364e62d0[m
+Merge: f9e28c2 71e872b
+Author: Wutianhang <diaor1998@163.com>
+Date:   Mon Oct 3 22:36:51 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    add work for 160922-22161912
+
+[33mcommit 1fcd5e73a8f0430894c56c1ea2d286d0298de66c[m
+Author: WZY <214239964@qq.com>
+Date:   Tue Oct 4 13:33:57 2016 +0800
+
+    All work for 20160929 -22161903
+
+[33mcommit 71e872b388999636914a1b67c73943ea9208a5fb[m
+Merge: 7eb7130 99dfc6b
+Author: yishan Ding <772096868@qq.com>
+Date:   Tue Oct 4 13:28:13 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 9312c230b415265db97c35691927d884f49b1639[m
+Author: Shenbowen <1085478558@qq.com>
+Date:   Mon Oct 3 22:23:13 2016 -0700
+
+    Add work-19160218
+
+[33mcommit 99dfc6b82b62c4c5e6515b84eee6020cf11f9e29[m
+Merge: 9d0acbb 2f99cd5
+Author: shw <2053104031@qq.com>
+Date:   Tue Oct 4 13:23:04 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 2f99cd5f81bddbef599146f41227b86fb786707e[m
+Merge: de399ee 93e2bba
+Author: Yingxue Rao <845818720@qq.com>
+Date:   Tue Oct 4 13:19:18 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 93e2bbad8118a4a1b7db44b0d4982640e3d26271[m
+Merge: 3c5401c 2980e90
+Author: Jiang <932988567@qq.com>
+Date:   Tue Oct 4 13:14:01 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 9d0acbbe53fdf4c6d234646ea5f48ef5bda488c8[m
+Merge: b4b9864 2980e90
+Author: shw <2053104031@qq.com>
+Date:   Tue Oct 4 13:08:30 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 2980e9080438b443a97f23353ee8b34a37ccde60[m
+Merge: 3b48944 0d4911c
+Author: Minjie Li <459745836@qq.com>
+Date:   Tue Oct 4 12:51:43 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+    ear
+
+[33mcommit 3b489447ebe86bf4efb87479d3f548ebdec97924[m
+Author: Minjie Li <459745836@qq.com>
+Date:   Tue Oct 4 12:19:51 2016 +0800
+
+    Add work for 160922-22161911
+
+[33mcommit f847ec20521f4291f045d4356d91f2bf7ebdbb67[m
+Author: Ke Xu <847202177@qq.com>
+Date:   Tue Oct 4 12:16:50 2016 +0800
+
+    Add work for 160922 and 20160929----22161909
+
+[33mcommit b5e394c6495e31c22b3e526b98f96a3f16dd0d1b[m
+Author: Ke Xu <847202177@qq.com>
+Date:   Tue Oct 4 11:53:30 2016 +0800
+
+    Add work for 160922-22161909
+
+[33mcommit 0d4911c658ea6b882db15cfec766aa6200088ad6[m
+Merge: 6453559 0b52fbe
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Mon Oct 3 20:50:26 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 7eb71307712aa1d84af6ab476e9ba7e512f6cf57[m
+Author: yishan Ding <772096868@qq.com>
+Date:   Tue Oct 4 11:36:00 2016 +0800
+
+    160922all work are compeletd 22161901 yishan Ding
+
+[33mcommit 0b52fbe4a65a8703d8b651fccd725cb63d8e41b8[m
+Merge: 0fc10e2 db21eb7
+Author: 19160203maowei <2269397164@qq.com>
+Date:   Mon Oct 3 20:35:48 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 0fc10e25b4b71efdf5b0d7422bdc933fd5eaadb0[m
+Author: 19160203maowei <2269397164@qq.com>
+Date:   Mon Oct 3 20:31:50 2016 -0700
+
+    add work for 160922-19160203
+
+[33mcommit b4b986489431f097f4dafa01dc0b9577347c790c[m
+Author: shw <2053104031@qq.com>
+Date:   Tue Oct 4 11:23:56 2016 +0800
+
+    All work for 160922-22161902
+
+[33mcommit 6453559baf67ad4d5832a37b63a6e14c9cd58a7f[m
+Merge: 75b810e db21eb7
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Mon Oct 3 20:14:35 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 4fea8f59be38c134322b1cd94fbc255fc471f254[m
+Author: Minjie Li <459745836@qq.com>
+Date:   Tue Oct 4 11:12:24 2016 +0800
+
+    Add work for 160922 - 22161911
+
+[33mcommit f9e28c293b0382be8bc34cb36fd29ee5d8f5f7d9[m
+Merge: e0d32d8 db21eb7
+Author: Wutianhang <diaor1998@163.com>
+Date:   Mon Oct 3 19:57:28 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit e0d32d8fdd90e56235a7849426db19f6c827f6ab[m
+Author: Wutianhang <diaor1998@163.com>
+Date:   Mon Oct 3 19:55:54 2016 -0700
+
+    add work for 160922-22161912 wutianhang
+
+[33mcommit 75b810ed068b20a35d0246ee9c9f919dc4919331[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Mon Oct 3 19:55:46 2016 -0700
+
+    Add work for 160922 - 19160213
+
+[33mcommit db21eb706a774d3d644e03e29b78f71b4fb3bb7c[m
+Merge: dfd13c2 54c1530
+Author: 19160229 <1300687449@qq.com>
+Date:   Mon Oct 3 19:32:25 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 54c1530a4dca05b7f21dd5532d2a2059dd8dcea0[m
+Merge: 93a3099 bcceb36
+Author: fbz <1927529251@qq.com>
+Date:   Mon Oct 3 19:25:19 2016 -0700
+
+    Add work for 160922 - 19160204
+
+[33mcommit dfd13c24ad754ef41b8ba1e7964c36669d6a2993[m
+Merge: 52bb71c bcceb36
+Author: 19160229 <1300687449@qq.com>
+Date:   Mon Oct 3 19:19:09 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit bcceb369be6bdf789a9ec16e477c121dbc4cd6ad[m
+Merge: 5d25aa8 413e3bf
+Author: luozhengji <1092232702@qq.com>
+Date:   Mon Oct 3 18:54:44 2016 -0700
+
+    Add work-19160222
+
+[33mcommit 5d25aa84fa27caa9c0f7e40a4999eb08b7541e37[m
+Merge: 4d9e826 7ec9b6d
+Author: shaohaojie <893938092@qq.com>
+Date:   Tue Oct 4 09:26:14 2016 +0800
+
+    Merge branch 'master' of githubcom:NNU-CS16/TCPL
+
+[33mcommit 40939c237fe12c6da488e03335a5ae8c089631c5[m
+Merge: bdd8f45 7ec9b6d
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Mon Oct 3 18:15:02 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 413e3bf11057a42b5af68c27de13849791d408a4[m
+Merge: 72f3f79 365824a
+Author: 19160217 <1479295618@qq.com>
+Date:   Mon Oct 3 18:13:55 2016 -0700
+
+    Add work-19160217
+
+[33mcommit bdd8f4512dd1be9ac1c4821255484ba5ce15f0d6[m
+Merge: ed5c461 b664f6f
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Mon Oct 3 18:05:11 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 7ec9b6d7fa3dfc40bcbdad17a9c92e7576aeabd4[m
+Merge: 53b06cd b664f6f
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Tue Oct 4 09:02:42 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 4d9e826e6cf7240eb69d279a0f511104d344c53d[m
+Merge: a61f59d 365824a
+Author: shaohaojie <893938092@qq.com>
+Date:   Tue Oct 4 08:59:47 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit b664f6f8ee4d9c00dcce4fcd2e9dc4ad57cd09df[m
+Merge: 856546f 365824a
+Author: tangchen19160212 <1654169282@qq.com>
+Date:   Mon Oct 3 17:59:40 2016 -0700
+
+    Add work-19160212
+
+[33mcommit 52bb71c763c06710325879bd6f78283928218183[m
+Merge: b177ec5 365824a
+Author: 19160229 <1300687449@qq.com>
+Date:   Mon Oct 3 17:59:03 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit ed5c461f311ca4c97c362458bd172ecbb12149f6[m
+Author: 19160213_nongjing <294478523@qq.com>
+Date:   Mon Oct 3 17:50:13 2016 -0700
+
+    Add work for 160922-19160213
+
+[33mcommit 72f3f797583fe2e38b82c905e2263e0e972e82ed[m
+Merge: d331d9d 2508070
+Author: 19160217 <1479295618@qq.com>
+Date:   Mon Oct 3 17:48:51 2016 -0700
+
+    Add work-19160217
+
+[33mcommit a61f59d09feb7cbb9db59a475a52541ac172652d[m
+Author: shaohaojie <893938092@qq.com>
+Date:   Tue Oct 4 08:42:22 2016 +0800
+
+    Add work for 160922 --22161922
+
+[33mcommit 5f5d456ffd74e1e8685c0ed2cba666093d638f76[m
+Author: 22161928 <774645883@qq.com>
+Date:   Tue Oct 4 03:43:53 2016 +0800
+
+    Add work for 160922-19140215,Kuojian Lu.
+
+[33mcommit 93a3099d0cdcb7d628a80574b4c234f841c967d5[m
+Author: fbz <1927529251@qq.com>
+Date:   Mon Oct 3 11:48:43 2016 -0700
+
+    Add Work-19160204
+
+[33mcommit fd24dfdf4a2ebb0bab3a8c02efe43e685a680087[m
+Author: 22161928 <774645883@qq.com>
+Date:   Tue Oct 4 02:44:49 2016 +0800
+
+    Add work for 160922-22161928
+
+[33mcommit 365824a64a2193bb3bec53d78af922d71884758b[m
+Merge: 3c2d915 417b1e4
+Author: lh19160206 <571071096@qq.com>
+Date:   Tue Oct 4 00:32:19 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 3c2d915836210ea0082103589259cb85a45e1fc0[m
+Author: lh19160206 <571071096@qq.com>
+Date:   Tue Oct 4 00:29:43 2016 +0800
+
+    add for 19160206 lvhang
+
+[33mcommit 417b1e488e0a33a7c875ac9b3bdda3f5aff43d5a[m
+Merge: f2ce5e7 2508070
+Author: luozhengji <1092232702@qq.com>
+Date:   Mon Oct 3 09:24:41 2016 -0700
+
+    Add work-19160222
+
+[33mcommit 285d3e7e040b4d3fd0e6d3c22fa904d091f87ae7[m
+Author: 22161919 <3366013267@qq.com>
+Date:   Tue Oct 4 00:14:37 2016 +0800
+
+    add work for 16092- 22161919
+
+[33mcommit 25080708aebe313e3c4cb44db20000cdaa17803d[m
+Author: 19160237 <173216514@qq.com>
+Date:   Tue Oct 4 00:10:40 2016 +0800
+
+    Add work for 160929-19160237,Xuan Jin
+
+[33mcommit de399ee304dedec83735f7e370a0f112fcbb657e[m
+Author: Yingxue Rao <845818720@qq.com>
+Date:   Tue Oct 4 00:03:23 2016 +0800
+
+    Add work for 160922 - 22161924, Yingxue Rao
+
+[33mcommit d331d9d3c765bb2dc4956857202c3d9162958878[m
+Merge: b177ec5 be1ac55
+Author: 19160217 <1479295618@qq.com>
+Date:   Mon Oct 3 09:01:19 2016 -0700
+
+    Add work-19160217
+
+[33mcommit d499cec5dcb45d97d979c12e10961d3a5b92d7f4[m
+Author: root <1354725466@qq,com>
+Date:   Mon Oct 3 23:57:22 2016 +0800
+
+    dd work for 160922-22161904
+
+[33mcommit 650a603472d6333a1d3becb39285f8fe653716f9[m
+Merge: 47f1994 be1ac55
+Author: lh19160206 <571071096@qq.com>
+Date:   Mon Oct 3 23:55:40 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPLZZ
+
+[33mcommit f2ce5e70ddc6a8bc03b31aa84a40b361773dbd39[m
+Merge: a9db408 be1ac55
+Author: liumingyu <924686743@qq.com>
+Date:   Mon Oct 3 23:40:15 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit a9db4080d6f66d72783c8a27adef00e694e16d00[m
+Merge: 30a3ec5 e9e9bce
+Author: liumingyu <924686743@qq.com>
+Date:   Mon Oct 3 23:29:25 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 47f1994c1cf42935196d68ffd0af09e993ac9681[m
+Author: lh19160206 <571071096@qq.com>
+Date:   Mon Oct 3 23:28:23 2016 +0800
+
+    2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19160206 lvhang2016.10.3 by19
+
+[33mcommit 53b06cd1e96c5c7e4cfcf4a643d67b9e63006901[m
+Merge: 856546f e9e9bce
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Mon Oct 3 23:21:44 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 2bdf9c3905627300b7e26ae2f41bcb43a20ddffb[m
+Author: shaohaojie <893938092@qq.com>
+Date:   Mon Oct 3 23:13:36 2016 +0800
+
+    Add work for 160922 - 22161922
+
+[33mcommit be1ac558a99bb4733d356fc2c77d1479e23c1295[m
+Merge: eba46a6 e9e9bce
+Author: 19160221_chenzhiran <13611587192@163.com>
+Date:   Mon Oct 3 23:08:34 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 30a3ec5055d81c0f7ccc48eddc10089993d992ac[m
+Author: liumingyu <924686743@qq.com>
+Date:   Mon Oct 3 22:53:22 2016 +0800
+
+    add work for 160922-19160209
+
+[33mcommit b177ec520e5683908469f1f9edd6ff323a15057a[m
+Merge: 790b9eb 856546f
+Author: 19160217 <1479295618@qq.com>
+Date:   Mon Oct 3 07:51:30 2016 -0700
+
+    Add work-19160217
+
+[33mcommit eba46a60c877fa3ef3dca493b196c463a1d3468b[m
+Author: 19160221_chenzhiran <13611587192@163.com>
+Date:   Mon Oct 3 22:47:18 2016 +0800
+
+    Add work for 160922-19160221
+
+[33mcommit e9e9bcecb0b58a0fc542457b11de98b0f28538f7[m
+Author: 19160237 <173216514@qq.com>
+Date:   Mon Oct 3 22:42:51 2016 +0800
+
+    Add work for 160922-19160237,Xuan Jin
+
+[33mcommit 790b9eb8d955a672907fac129b05d9ed6e7f3b63[m
+Author: 19160217 <1479295618@qq.com>
+Date:   Mon Oct 3 07:38:36 2016 -0700
+
+    ADD work-19160217
+
+[33mcommit 856546f9a7a0464a90f6acae6d8419fa893de8f5[m
+Merge: 3ba1807 d8c8c56
+Author: tangchen19160212 <1654169282@qq.com>
+Date:   Mon Oct 3 07:26:06 2016 -0700
+
+    Add work-19160212
+
+[33mcommit d8c8c56ee806c6bec3137c298efee9952f0e6f31[m
+Merge: 845c136 2bbdf2d
+Author: Yiting Zheng <952278338@qq.com>
+Date:   Mon Oct 3 07:06:25 2016 -0700
+
+    1
+
+[33mcommit 3c5401c7e295c5efc32d8650c3af027cefc93e8b[m
+Author: Jiang <932988567@qq.com>
+Date:   Mon Oct 3 21:58:29 2016 +0800
+
+    Add work for 161004-22161926 YiYun Jiang
+
+[33mcommit 845c136ae1f9f84de9e5a2c673dd219f3d82220f[m
+Author: Yiting Zheng <952278338@qq.com>
+Date:   Mon Oct 3 06:42:08 2016 -0700
+
+    Add work-19160226
+
+[33mcommit 3ba1807f0d084fa48160a520f12939a8ef818404[m
+Author: tangchen19160212 <1654169282@qq.com>
+Date:   Mon Oct 3 06:42:07 2016 -0700
+
+    Add work-19160212
+
+[33mcommit 2bbdf2d7449e531839aaa58f58f475689d92a6d5[m
+Author: lihao19160214 <878279317@qq.com>
+Date:   Mon Oct 3 06:42:06 2016 -0700
+
+    Add work-19160214
+
+[33mcommit c1669534b9ad8a29813f0ebb6c23598143d6fdf4[m
+Author: 19160239 <1304824784@qq.com>
+Date:   Mon Oct 3 05:54:08 2016 -0700
+
+    ADD WORK FOR 160922-19160239 DAIPEI
+
+[33mcommit cae29fe1676baa5162c714d31a8affbee3442f29[m
+Author: luozhengji <1092232702@qq.com>
+Date:   Sun Oct 2 18:43:54 2016 -0700
+
+    Add work-19160222
+
+[33mcommit 0ee1304200c3bcd133526b5a22a6e9eeaf830c39[m
+Merge: d1e40dc 5be67ae
+Author: 19160229 <1300687449@qq.com>
+Date:   Sat Oct 1 03:11:16 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit d1e40dc57849141186ba772dd213c1cd6c1dfa85[m
+Author: 19160229 <1300687449@qq.com>
+Date:   Sat Oct 1 03:06:37 2016 -0700
+
+    Add homework for 1609
+
+[33mcommit 5be67aee7aceda73b9bc5bad996edaceffeadca4[m
+Merge: 7b52ada 5e3fc67
+Author: 22161914 <909580923@qq.com>
+Date:   Fri Sep 30 18:59:29 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit b320e002f6207a1def9b491c0e9dcd9ca84645ac[m
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Fri Sep 30 18:57:44 2016 -0700
+
+    Add work-19160224
+
+[33mcommit 7b52ada6684d58a2853b7ce45f9b8db206cc3f78[m
+Author: 22161914 <909580923@qq.com>
+Date:   Fri Sep 30 18:57:08 2016 -0700
+
+    add work for 20160929 zhangqian
+
+[33mcommit 5e3fc67f05541ef2fef3ca6f41d39e5c972a0061[m
+Author: luozhengji <1092232702@qq.com>
+Date:   Fri Sep 30 18:41:54 2016 -0700
+
+    Add work-19160222
+
+[33mcommit bcee3a8829a5dbd7c4de6e7696a8001529f144c0[m
+Merge: 0aa8945 48da29d
+Author: 22161914 <909580923@qq.com>
+Date:   Fri Sep 30 17:48:59 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 0aa89457efbbb0269df365487664ede1e6fd6eae[m
+Author: 22161914 <909580923@qq.com>
+Date:   Fri Sep 30 17:41:55 2016 -0700
+
+    Add work for 160922_example -22161914 zhangqian:
+
+[33mcommit 48da29d182100e96ed84a23a80956e2c5460f068[m
+Merge: a43d22b 2b13bde
+Author: wuhongxuan <1024695854@qq.com>
+Date:   Sat Oct 1 00:47:33 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit a43d22b0cddaaf74245bb3fc1477537bf00f413c[m
+Author: wuhongxuan <1024695854@qq.com>
+Date:   Sat Oct 1 00:43:24 2016 +0800
+
+    Assign homework for 20160929
+
+[33mcommit 2b13bdec083536db431ff080e7883d1fec0dec70[m
+Merge: 7d15e1a 1aa1968
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Fri Sep 30 07:07:18 2016 -0700
+
+    Add work -19160224
+
+[33mcommit 7d15e1a905a6170231bf4676ae972ea98254990b[m
+Author: luoqiqi_19160224 <1263321163@qq.com>
+Date:   Fri Sep 30 06:35:02 2016 -0700
+
+    Add work-19160224
+
+[33mcommit 1aa1968a6f16893ddd3822432264be623b56758c[m
+Merge: ee7582c 1f96d51
+Author: wuhongxuan <1024695854@qq.com>
+Date:   Fri Sep 30 21:21:44 2016 +0800
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit ee7582c2bd54378ec0963525c033a3b8c037c712[m
+Author: wuhongxuan <1024695854@qq.com>
+Date:   Fri Sep 30 21:16:41 2016 +0800
+
+    All work for 160922 - 19160215
+
+[33mcommit 1f96d512abae106d7a2a1c67da856f3f4bde83ba[m
+Author: 22161916 <1136827613@qq.com>
+Date:   Fri Sep 30 04:51:43 2016 -0700
+
+    Add work for 20160929-22161916,zhanglu
+
+[33mcommit cd961f71bc6c0439e3181d97caae9183b7f190a7[m
+Author: 22161916 <1136827613@qq.com>
+Date:   Fri Sep 30 03:15:34 2016 -0700
+
+    Add work for 160922_example-22161916
+
+[33mcommit 6da0e5b49787c0b84a2919a083c876e56ffbd8ac[m
+Author: 22161917 <1274024886@qq.com>
+Date:   Fri Sep 30 01:09:44 2016 -0700
+
+    Add work for 20160929-Chen,yixin
+
+[33mcommit 6febf022f9f5b3a80bb142efd99b8efa9583a9c1[m
+Merge: 26f973b 21c19ed
+Author: 22161917 <1274024886@qq.com>
+Date:   Fri Sep 30 01:03:00 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 26f973b964e0255321fb3062d692ca749f38c331[m
+Author: 22161917 <1274024886@qq.com>
+Date:   Fri Sep 30 01:01:37 2016 -0700
+
+    Add work for 20160929-Chen,yixin
+
+[33mcommit 21c19edbf15367f5efe34c6231233c58450b8f47[m
+Author: luozhengji <1092232702@qq.com>
+Date:   Fri Sep 30 00:30:49 2016 -0700
+
+    Add work-19160222
+
+[33mcommit b7f93317366ddef5ee7d38db1acef3286a4eb3b1[m
+Merge: e6a82bf b8511c0
+Author: 22161917 <1274024886@qq.com>
+Date:   Fri Sep 30 00:22:21 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit e6a82bfd65d76a8ae7ad05fe0068d4ad0bbd14cf[m
+Author: 22161917 <1274024886@qq.com>
+Date:   Fri Sep 30 00:16:46 2016 -0700
+
+    Add work for 20160929-Chen,yixin
+
+[33mcommit 088617ed32be1a6ed2ff684e6d8b0bb15c5024df[m
+Merge: 175923b b8511c0
+Author: 19160229 <1300687449@qq.com>
+Date:   Thu Sep 29 22:48:34 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit 175923b95b09aef8a597fb4beb447b55fe930642[m
+Author: 19160229 <1300687449@qq.com>
+Date:   Thu Sep 29 20:34:18 2016 -0700
+
+    And work for 160922-19160229
+
+[33mcommit b8511c01903374b72a048e139a66fb96bd62905d[m
+Author: Shenjiahao191160219 <sy622_5@126.com>
+Date:   Fri Sep 30 00:19:46 2016 +0800
+
+    hello.c
+
+[33mcommit 199ec5e13ce8c0a680b12ec5efe84eb8d8ae5e9b[m
+Merge: 39bbffc 8af8655
+Author: Shenjiahao191160219 <sy622_5@126.com>
+Date:   Fri Sep 30 00:05:51 2016 +0800
+
+    hello.c
+
+[33mcommit 39bbffc4856a3c9fe5448dc278b62691b7160615[m
+Merge: 6dcf766 b43c1d9
+Author: Shenjiahao191160219 <sy622_5@126.com>
+Date:   Fri Sep 30 00:03:59 2016 +0800
+
+    19160219
+
+[33mcommit 8af86551d67f09747d6b8211382d3baf9d6a6f3a[m
+Merge: 53922a6 2763c75
+Author: Zhang Wen Chao 19160220 <1239374273@qq.com>
+Date:   Thu Sep 29 08:55:54 2016 -0700
+
+    Add work for 160922 - 19160220
+
+[33mcommit 2763c75968ba95af97f8abb0c509dd6fdfc9339c[m
+Merge: 6556967 b43c1d9
+Author: luozhengji <1092232702@qq.com>
+Date:   Thu Sep 29 08:25:05 2016 -0700
+
+    Add work for 160922_example-19160222
+
+[33mcommit 6dcf766f5df9b38ecaafae13f4a84ecd786905e2[m
+Author: Shenjiahao191160219 <sy622_5@126.com>
+Date:   Thu Sep 29 23:16:30 2016 +0800
+
+    hello.c
+
+[33mcommit 65569676c2fde0b285c4d4ab13c50a9237db390c[m
+Author: luozhengji <1092232702@qq.com>
+Date:   Thu Sep 29 08:09:18 2016 -0700
+
+    addd work for 20160929-19160222
+
+[33mcommit b43c1d93c435f8f82020a71ca5d52f3830b9e722[m
+Author: 22161917 <1274024886@qq.com>
+Date:   Thu Sep 29 08:07:04 2016 -0700
+
+    Add work for 20160929-Chen,yixin
+
+[33mcommit 53922a648500d49d27c6a1092689c0eb7d161f1d[m
+Author: Zhang Wen Chao 19160220 <1239374273@qq.com>
+Date:   Thu Sep 29 07:46:47 2016 -0700
+
+    Add work for 160922 - 19160220
+
+[33mcommit ce74f9725d7a060dccbd23125cac3d4e38022ef5[m
+Author: 22161903 <214239964@qq.com>
+Date:   Thu Sep 29 05:46:40 2016 -0700
+
+    Add work for 160922 -22161903 Wang Zhiyang
+
+[33mcommit 0633bd8c4b5d340f29e9bcc0a4d927fae9c9dc95[m
+Author: 22161915 <744315039@qq.com>
+Date:   Thu Sep 29 04:52:49 2016 -0700
+
+    Add work for 160922 - 22161915 zhanghui
+
+[33mcommit 5f1b876778f16bd5f3ef63eef19ce32af55be1d7[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Thu Sep 29 19:22:30 2016 +0800
+
+    Recovery.
+
+[33mcommit dd0430e4603f2ac84f8609721f6337016b470e0c[m
+Merge: 160bf01 f6d5694
+Author: 22161915 <744315039@qq.com>
+Date:   Thu Sep 29 03:53:03 2016 -0700
+
+    Merge branch 'master' of github.com:NNU-CS16/TCPL
+
+[33mcommit f6d56943c9c117d96c8bf8e2d74f49702f6ada13[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Thu Sep 29 18:39:50 2016 +0800
+
+    Assign homework for 20160929.
+
+[33mcommit 160bf01f0b4af2c0a72a1fdc6ba9f36468b82a0f[m
+Author: 22161915 <744315039@qq.com>
+Date:   Thu Sep 29 03:37:15 2016 -0700
+
+    /1
+
+[33mcommit 1db82248043377d831d055d85bccbf2b8fd264d7[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Thu Sep 29 18:06:31 2016 +0800
+
+    Recovery.
+
+[33mcommit 1be1c7d0aaacb4ceb4ab53fcdc75944cdae66194[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Thu Sep 29 10:59:09 2016 +0800
+
+    Add work for 160922 - 19160201
+
+[33mcommit 9f067e62d19be9ab2795552699390bbacd48aabb[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Mon Sep 26 23:30:31 2016 +0800
+
+    Recover 160922_example modified by mistake.
+
+[33mcommit 7e7a19e816d0be07d4029f907260460ab2d8afd8[m
+Author: ChengYiXin <1274024886@qq.com>
+Date:   Mon Sep 26 07:03:33 2016 -0700
+
+    i
+    Add work for 160922_example-Chen,yixin.
+
+[33mcommit c63991d6e1bec83c063add2691b991f564b07475[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Sun Sep 18 23:21:32 2016 +0800
+
+    Add C Tutorial and C Homework Manual for fresher to reference.
+
+[33mcommit dbb3471b0e90492e0179323efc854f6cd4dfb71d[m
+Author: Kuojian Lu <gli_glu@163.com>
+Date:   Sat Sep 17 10:49:42 2016 +0800
+
+    Initialize this C Homework Project for the NNU-CS16 fresher.
+
+[33mcommit 6c8459769bbb6557fe3815b52869b258437dd205[m
+Author: NNU-CS16 <gli_glu@163.com>
+Date:   Sat Sep 17 10:44:26 2016 +0800
+
+    Initial commit
