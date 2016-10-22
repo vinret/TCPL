@@ -1,12 +1,11 @@
-
 #include <stdio.h>
-#define N 2
-#define M N+3
+# define PI 3.14
 int main()
 {
-	int a=0256,b=256,c=0x256;
-	printf("%d,%d,%d\n",a,b,c);
-    printf("%d\n",M*4);
-	return 0;
-}
-
+	int radius=6;
+	double area,circumference;
+	area=PI*radius*radius;
+    circumference=2*PI*radius;
+	printf("area=%f\n",area);
+	printf("circumference=%f\n",circumference);
+	return 0
