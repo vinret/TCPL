@@ -1,8 +1,23 @@
-/*
- * 1. 扩展教材P17例子2.1，定义表2.1（见P12）中所描述的所有类型的变量，
- *    并观察其所占内存空间的字节数。
- *
- * 2. 阅读教材P10至P28，并实现P10任务2.1。
- *
- * 3. 完成教材P30习题2中的一、1和一、2，并将其编译运行，以测试你所写的结果是否正确。
- */
+#include<stdio.h>
+int main()
+{
+   int a;
+   long int b;
+   signed long int c;
+   unsigned int d;
+   unsigned long int e;
+   short int f;
+   signed short int g;
+   unsigned short int h;
+   
+   printf("int size=%d\n",sizeof(a));
+   printf("long int size=%d\n",sizeof(b));
+   printf("signed long int=%d\n",sizeof(c));
+   printf("unsigned int=%d\n",sizeof(d));
+   printf("unsigned long int=%d\n",sizeof(e));
+   printf("short int=%d\n",sizeof(f));
+   printf("signed short int size=%d\n",sizeof(g));
+   printf("unsigned short int size=%d\n",sizeof(h));
+
+   return 0;
+}
