@@ -1,13 +1,15 @@
 #include<stdio.h>
-#include<math.h>
 int main()
 {
-    int a,b,c,e=0;
+    int a,b,c,e=0,k,t;
     double p;
 
     scanf("%d%d%d",&a,&b,&c);
 
-    p=(a^b)%c;
+    for(t=1,k=1;k<=b;k++)
+    t*=a;
+
+    p=t%c;
 
     while(p>=10)
     {
