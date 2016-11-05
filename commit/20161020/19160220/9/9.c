@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  unsigned short a,b;
+  int a,b;
   scanf("%d%d",&a,&b);
   a=a^ b;
   b=b^ a;
