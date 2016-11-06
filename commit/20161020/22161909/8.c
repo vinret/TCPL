@@ -17,20 +17,20 @@ int main()
 	while (b!=0)
 	{
 		b=b/2;
-		n=++n;
+		n++;
 	}
 
-	int z[n],i=1;
+	int z[n],i=0;
 	b=D;
 	while (b!=0)
 	{
 		a=b%2;
 		b=b/2;
 		z[i]=a;
-		i=++i;
+		i++;
 	}
        
-	for (i=i-1;i>0;i--)
+	for (i=i-1;i>=0;i--)
 		printf("%d",z[i]);
 
         printf("\n");
