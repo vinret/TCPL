@@ -5,7 +5,7 @@ int main()
     int  a[4],i,j,k;
     int  sum=0;
     char c[101];
-    scanf("%s",c);
+    gets(c);
     for(k=0;k<strlen(c);k++)
         sum=sum+((int)c[k]-48);
     if(sum==0) printf("ling\n");
