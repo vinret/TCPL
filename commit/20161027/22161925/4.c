@@ -3,7 +3,7 @@ int main()
 {
     int N,i,j,k,n,m,x,z;
     char c;
-    scanf("%d%c",&N,&c);
+    scanf("%d %c",&N,&c);
     for(z=1;;z++)
  {
     n=2*z*z-1;
