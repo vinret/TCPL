@@ -5,6 +5,7 @@ int main(void)
 {
     int i,b,j,k,temp,count=0,sum=0;
     char A[12];char a[12];
+   
     char D;
 
     b=0;
