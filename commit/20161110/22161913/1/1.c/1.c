@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    long i,j,n;
+    long i,j,k,n;
     printf("请输入你要打印的行数: ");
     scanf("%ld",&n);
     int a[n][n];
@@ -16,8 +16,10 @@ int main()
           a[i][j]=a[i-1][j-1]+a[i-1][j];}
     for(i=0;i<n;i++)
     {
-       for(j=0;j<i;j++)
-          printf("%d",a[i][j]);
+       for(k=2*n;k>=2*i+1;k--)
+           printf(" ");
+       for(j=0;j<=i;j++)
+          printf("%4d",a[i][j]);
           printf("\n");
     }
     return 0;
