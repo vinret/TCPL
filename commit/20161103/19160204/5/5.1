@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+ int N=0,a=0,b=0;
+ char c;
+ do
+ {
+  scanf("%c",&c);
+  if(c>='a'&&c<='z')
+   N+=((int)c-96);
+  if(c>='A'&&c<='Z')
+   N+=((int)c-64);
+ }while(c!='\n');
+ do
+ {
+  if(N%2==0) a++;
+  if(N%2==1) b++;
+  N/=2;
+ }while(N!=0);
+ printf("%d %d\n",a,b);
+ return 0;
+}
