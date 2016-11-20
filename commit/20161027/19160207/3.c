@@ -1,20 +1,17 @@
 #include<stdio.h>
 int main(void)
 {
-   int n,i;
-   printf("请输入(3n+1)猜想的一个数(n<=1000):  ");
+   int n,i,tmp;
+//   printf("请输入(3n+1)猜想的一个数(n<=1000):  ");
    scanf("%d",&n);
-   for(i=1;n!=1;i++)
+   for(i=0;n!=1;i++)
    {
-     if(n%2==0)
+     tmp=n%2; 
+     if(tmp==0)
        n=n/2;
-     else if(n%2==1)
+     else 
        n=(3*n+1)/2;
-   if(n==1)
-    break;
    }
-   printf("需要%d步.\n",i);
+   printf("%d\n",i);
    return 0;
-}
-     
-   
+}  
