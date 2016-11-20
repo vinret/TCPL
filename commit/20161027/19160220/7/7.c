@@ -1,14 +1,16 @@
 #include <stdio.h>
-#include <math.h>
+int pow_mod(int a,int b,int c)
+{a=a%c;
+ int i,res=1;
+ for(i=1;i<=b;++i)
+   res=res*a%c;
+ return res;
+}
 int main()
 {
-  int a,b,c,y;
+  int a,b,c;
   printf("Input a,b,c\n");
   scanf("%d%d%d",&a,&b,&c);
-  (double)a,b;
-  y=pow(a,b);
-  (int)y;
-  y=y%c;
-  printf("a^b%%c=%d\n",y);
+  printf("%d",pow_mod(a,b,c));
   return 0;
 }
