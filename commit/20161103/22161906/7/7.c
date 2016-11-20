@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include<math.h>
+
+  int is_prime(int n)
+{
+  if(n<=1) return -1;
+  int i;
+  for(i=2;i<=sqrt(n);i++)
+  if(n%i==0) return -1;
+  return 0;
+}
+
+  int main()
+{
+  int n,i=0;
+  for(n=2;n<=1000;n++)
+ {
+  if(is_prime(n)==0)
+ {
+  i++;
+  if(n>=100 && n<=1000)
+  printf("%d",n);
+ }
+ }
+  return 0;
+}
