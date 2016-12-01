@@ -17,10 +17,12 @@ return str;
 
 int is_int_pal(const char* str)
 {
-int i;
-i=strlen(str);
-if(str[0]==str[i-1]) return 0;
-else return -1;
+int i,j;
+for(i=0,j=strlen(str)-1;j>i;i++,j--)
+{
+if(str[i]!=str[j]) {return -1;break;}
+else return 0;
+}
 }
 
 int main()
