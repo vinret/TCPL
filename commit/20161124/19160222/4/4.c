@@ -4,14 +4,18 @@ int is_int_pal(int n);
 int is_int_pal(int n)
 {
 int i=0,x[100];
+int j,k;
 while(n!=0)
 {
 x[i]=n%10;
 n/=10;
 i++;
 }
-if(x[0]==x[i-1]) return 0;
-else return -1;
+for(j=0,k=i-1;k>j;j++,k--)
+{
+if(x[j]!=x[k]) {return -1;break;}
+else return 0;
+}
 }
 
 int main()
