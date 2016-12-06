@@ -4,14 +4,14 @@ int main()
 {
   char ch[1000];
   int n[26]={0};
-  fgets(ch,1000,stdin); 
+  fgets(ch,1000,stdin);
   int i;
   for(int i=0;ch[i]!='\0';i++)
- { 
+ {
   if(ch[i]>='A'&&ch[i]<='Z')  ch[i]=ch[i]+32;
   else if(ch[i]>='a'&&ch[i]<'z') ;
        else continue;
- // printf("%c",ch[i]); 
+ // printf("%c",ch[i]);
  }
   int m;
   for(i=0;ch[i]!='\0';i++)
@@ -27,6 +27,7 @@ int main()
     a=m; }
  }
  // printf("%d",a);
-  printf("%c %d",'a'+a,max); 
+  printf("%c %d",'a'+a,max);
   return 0;
 }
+
