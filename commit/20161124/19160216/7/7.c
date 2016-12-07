@@ -22,4 +22,4 @@ if(s!=w)
 }
 printf("\n");
 return 0;
-n
+}
