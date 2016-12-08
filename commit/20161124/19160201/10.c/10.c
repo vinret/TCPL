@@ -12,4 +12,5 @@ int main()
  printf("Please input a string:");
  gets(str);
  reverse(str);
-return 0;}
+return 0;
+}
