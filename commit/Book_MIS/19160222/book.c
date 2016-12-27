@@ -45,7 +45,7 @@ int search(int size,char qid[])
 		{
 			if(!strcmp(qid,(bookAry[i]).ISBN))
 				{
-					printf("%s\t%s\t%s\t%f\n",bookAry[i].name,bookAry[i].auther,bookAry[i].ISBN,bookAry[i].price);
+					printf("%s\t%s\t%s\t%.2f\n",bookAry[i].name,bookAry[i].auther,bookAry[i].ISBN,bookAry[i].price);
 					break;
 				}
 		}
@@ -108,7 +108,7 @@ void List(int size)
 			printf("%s\t",bookAry[i].name);
 			printf("%s\t",bookAry[i].auther);
 			printf("%s\t",bookAry[i].ISBN);
-			printf("%f\n",bookAry[i].price);
+			printf("%.2f\n",bookAry[i].price);
 		}
 }
 
@@ -193,14 +193,14 @@ int main()
 		if(cmd=='q')
 		{
 			saveAs(size);
-			break;
+			return 0;
 		}
 		switch(cmd)
 		{
 			case 'i':
 				printf("enter the information of the book:\n");
 				insert();
-				printf("%s %s %s %f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
+				printf("%s %s %s %.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
 				break;
 			case 's':
 				printf("Enter the ISBN of the book:");
