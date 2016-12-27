@@ -19,6 +19,7 @@ Book bookAry[BOOKNUM]={0};
 int search(int size,char qid[]);
 int del(int size,char qid[]);
 void insert();
+void update();
 int loadArry();
 int saveAs(int size);
 void List(int size);
@@ -46,6 +47,7 @@ int search(int size,char qid[])
 			if(!strcmp(qid,(bookAry[i]).ISBN))
 				{
 					printf("%s\t%s\t%s\t%.2f\n",bookAry[i].name,bookAry[i].auther,bookAry[i].ISBN,bookAry[i].price);
+					printf("\n");
 					break;
 				}
 		}
@@ -83,7 +85,10 @@ void insert()
 	strcpy(bookAry[size].ISBN,c);
 	r=search(size,bookAry[size].ISBN);
 	if(r!=size)
-		printf("This book has been in system!\n");
+		{
+			printf("This book has been in system!\n");
+			printf("\n");
+		}
 	else
 	{
 		printf("Name:");
@@ -99,6 +104,35 @@ void insert()
 	}
 }
 
+void update()
+{
+	int r;
+	char c[50];
+	Book tmp;
+	printf("ISBN:");
+	my_gets(c,50);
+	r=del(size,c);
+	if(r==-1)
+	{
+		printf("There are no such book!\n");
+	}
+	else
+	{
+		strcpy(bookAry[size-1].ISBN,c);
+		printf("Name:");
+		my_gets(c,50);
+		strcpy(bookAry[size-1].name,c);
+		printf("Auther:");
+		my_gets(c,50);
+		strcpy(bookAry[size-1].auther,c);
+		printf("Price:");
+		my_gets(c,50);
+		bookAry[size-1].price=atof(c);
+		printf("%s\t%s\t%s\t%.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
+		printf("\n");
+	}
+}
+
 void List(int size)
 {
 	int i,j;
@@ -110,6 +144,7 @@ void List(int size)
 			printf("%s\t",bookAry[i].ISBN);
 			printf("%.2f\n",bookAry[i].price);
 		}
+	printf("\n");
 }
 
 int loadArry()
@@ -164,9 +199,11 @@ int saveAs(int size)
 int menu()
 {
 	printf("==Welcome your library==\n");
+	printf("There are %d books in your library\n",size);
 	printf("(S)earch the information of books\n");
 	printf("(I)nsert the information of books\n");
 	printf("(D)elete the information of books\n");
+	printf("(U)pdate the information of books\n");
 	printf("(A)ll books\n");
 	printf("(Q)uit this interface\n");
 	return 0;
@@ -201,14 +238,16 @@ int main()
 				printf("enter the information of the book:\n");
 				insert();
 				printf("%s %s %s %.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
+				printf("\n");
 				break;
 			case 's':
 				printf("Enter the ISBN of the book:");
 				my_gets(c,100);
 				r=search(size,c);
-				if(r==size-1)
+				if(r==size)
 				{
 					printf("Can't find the book!\n");
+					printf("\n");
 				}
 				break;
 			case 'd':
@@ -219,15 +258,20 @@ int main()
 				{
 					size--;
 					printf("Successfully!\n");
+					printf("\n");
 				}
 				else
 				{
 					printf("Can't find this book!\n");
+					printf("\n");
 				}
 				break;
 			case 'a':
 				printf("All books:\n");
 				List(size);
+				break;
+			case 'u':
+				update();
 				break;
 			default:errCmd();
 		}
