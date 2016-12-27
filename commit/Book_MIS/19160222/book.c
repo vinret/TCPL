@@ -206,6 +206,7 @@ int menu()
 	printf("(U)pdate the information of books\n");
 	printf("(A)ll books\n");
 	printf("(Q)uit this interface\n");
+	printf("What do you want to do:");
 	return 0;
 }
 
