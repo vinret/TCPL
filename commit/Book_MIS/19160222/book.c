@@ -151,10 +151,10 @@ int loadArry()
 {
 	FILE *fp;
 	fp=fopen("books.csv","r");
-	char line[50];
-	char info[4][20];
+	char line[100];
+	char info[4][50];
 	int i,j=0,k=0,l=0;
-		while(fgets(line,50,fp)!=NULL)
+		while(fgets(line,100,fp)!=NULL)
 			{
 				for(i=0;i<strlen(line);i++)
 					if(line[i]==',')
@@ -190,7 +190,7 @@ int saveAs(int size)
 			fprintf(fp,"%s,",bookAry[i].name);
 			fprintf(fp,"%s,",bookAry[i].auther);
 			fprintf(fp,"%s,",bookAry[i].ISBN);
-			fprintf(fp,"%f\n",bookAry[i].price);
+			fprintf(fp,"%.2f\n",bookAry[i].price);
 		}
 	fclose(fp);
 	return 0;
