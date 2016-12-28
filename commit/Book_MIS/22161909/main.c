@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "command.c"
-int Menu();
+#include <string.h>
+#include "book.h"
+#include "command.h"
 
 int main()
 {
@@ -29,7 +30,7 @@ int main()
 				       printf("Please input the book's ISBN which you want to search:");
 				       scanf("%d",&ISBN);  k=Search(book,n,ISBN);
 				       if(k!=-1)
-			           printf("%s,%s,%d,%f\n",book[k].name,book[k].author,book[k].ISBN,book[k].price);
+			           printf("%s %s %d %f\n",book[k].name,book[k].author,book[k].ISBN,book[k].price);
 				       else printf("No found.\n");
 				       break;
 			       }
@@ -62,19 +63,6 @@ int main()
 	return 0;
 }
 
-int Menu()
-{
-	int choice;
-	printf("1......Output all book information\n");
-	printf("2......Insert book information\n");
-	printf("3......Search book information\n");
-	printf("4......Delete book information\n");
-	printf("5......Revise book information\n");
-	printf("6......Save book information\n");
-	printf("0......Exit\n");
-	scanf("%d",&choice);
-	return choice;
-}
 
 		
 			 
