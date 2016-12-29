@@ -136,13 +136,13 @@ void update()
 void List(int size)
 {
 	int i,j;
-	printf("Name\tAuther\tISBN\tPrice\n");
+	printf("Name			Auther			ISBN			Price\n");
 	for(i=0;i<size;i++)
 		{
-			printf("%s\t",bookAry[i].name);
-			printf("%s\t",bookAry[i].auther);
-			printf("%s\t",bookAry[i].ISBN);
-			printf("%.2f\n",bookAry[i].price);
+			printf("%-20s\t",bookAry[i].name);
+			printf("%-20s\t",bookAry[i].auther);
+			printf("%-20s\t",bookAry[i].ISBN);
+			printf("%-20.2f\n",bookAry[i].price);
 		}
 	printf("\n");
 }
@@ -198,8 +198,11 @@ int saveAs(int size)
 
 int menu()
 {
-	printf("==Welcome your library==\n");
-	printf("There are %d books in your library\n",size);
+	printf("    ==Welcome your library==\n");
+	if(size>=2)
+		printf("There are %d books in your library\n",size);
+	else
+		printf("There are %d book in your library\n",size);
 	printf("(S)earch the information of books\n");
 	printf("(I)nsert the information of books\n");
 	printf("(D)elete the information of books\n");
@@ -213,6 +216,7 @@ int menu()
 int errCmd()
 {
 	printf("Error Command!\n");
+	printf("\n");
 	return -1;
 }
 
@@ -238,7 +242,7 @@ int main()
 			case 'i':
 				printf("enter the information of the book:\n");
 				insert();
-				printf("%s %s %s %.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
+				printf("%s\t%s\t%s\t%.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
 				printf("\n");
 				break;
 			case 's':
