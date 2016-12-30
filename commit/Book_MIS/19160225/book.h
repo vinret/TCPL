@@ -1,4 +1,10 @@
-const int m=100,len=100;
+#ifndef BOOK_H_
+#define BOOK_H_
+
+#include<stdio.h>
+
+#define m 100
+#define len 100
 typedef struct data{
 	char name[len],auther[len],isbn[len];
 	double price;
@@ -6,11 +12,11 @@ typedef struct data{
 typedef struct book{
 	int s;
 	data a[2*m+5];
-	book *next;
+	struct book *next;
 }book;
-book *root=0;
+//book *root=0;
 data f[m*m],a[m*m];
-int tot=0,num[4];
+int tot,num[4];
 char file[100];
 FILE *fp;
 
@@ -26,3 +32,5 @@ void destroy(book *k);
 int compare(data a,data b,int order);
 void merge(int l,int r,int order);
 void sort(int l,int r,int order);
+
+#endif // BOOK_H_

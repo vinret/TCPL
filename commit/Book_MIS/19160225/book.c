@@ -1,4 +1,6 @@
 #include"book.h"
+#include<stdlib.h>
+
 void menu(){
 	if (tot<2) printf("There is %d record at present.\n",tot);
 	else printf("There are %d records at present.\n",tot);
