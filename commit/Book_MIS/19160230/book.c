@@ -53,7 +53,7 @@ int main()
 		int cmd;
 		cmd=getchar();
 		getchar();
-		if(cmd='q')
+		if(cmd=='q')
 		{
 			save(n,str);
 			break;
