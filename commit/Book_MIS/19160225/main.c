@@ -2,7 +2,9 @@
 #include<string.h>
 #include<stdlib.h>
 #include"book.h"
-#include"book.c"
+
+book* root=0;
+
 int main(){
 	printf("Manual:\n");
 	printf("The output file will be entitled by num1(num2).csv.\n");

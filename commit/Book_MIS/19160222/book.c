@@ -94,7 +94,7 @@ void insert()
 		printf("Name:");
 		my_gets(c,50);
 		strcpy(bookAry[size].name,c);
-		printf("Auther:");
+		printf("Author:");
 		my_gets(c,50);
 		strcpy(bookAry[size].auther,c);
 		printf("Price:");
@@ -122,7 +122,7 @@ void update()
 		printf("Name:");
 		my_gets(c,50);
 		strcpy(bookAry[size-1].name,c);
-		printf("Auther:");
+		printf("Author:");
 		my_gets(c,50);
 		strcpy(bookAry[size-1].auther,c);
 		printf("Price:");
@@ -136,7 +136,7 @@ void update()
 void List(int size)
 {
 	int i,j;
-	printf("Name			Auther			ISBN			Price\n");
+	printf("Name			Author			ISBN			Price\n");
 	for(i=0;i<size;i++)
 		{
 			printf("%-20s\t",bookAry[i].name);
