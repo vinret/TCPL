@@ -5,7 +5,7 @@ struct BookNode
 {
  char name[10];
  char authur[10];
- int isbn;
+ char isbn[14];
  float price;
  struct BookNode* next;
 };
@@ -13,10 +13,10 @@ struct BookNode
 typedef struct BookNode book;
 
 book* load();
-book* search(book* head,int isbn);
+book* search(book* head,char isbn[14]);
 book* insert(book* head);
-void delete(book* head,int isbn);
+void delete(book* head,char isbn[14]);
 void output(book* head);
 void save(book* head);
-void update(book* head,int isbn);
+void update(book* head,char isbn[14]);
 #endif
