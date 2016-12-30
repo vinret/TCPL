@@ -1,0 +1,100 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include"command.h"
+#include"book.h"
+void menu()
+{
+    char cmd,num[14];
+    Book*bkl=head;
+    int menu1()
+    {
+    printf("*** Books Information Management Systerm ***\n");
+    printf("(s) search books' record\n");
+    printf("(i) insert books' record\n");
+    printf("(m) modify books' record\n");
+    printf("(d) delete books' record\n");
+    printf("(b) browse books' record\n");
+    printf("(q) quit systerm\n");
+    printf("Please input your command:\n");
+
+    return 0;
+    }
+    
+    int errcmd()
+    {
+	printf("Error Command!\n");
+        return -1;
+    }
+ 
+    do{
+	menu1();
+        cmd=getchar();
+	getchar();
+        if( cmd == 'q')
+ 	{
+   	    save(head,book_info.csv);
+	    break;
+	}
+        switch(cmd)
+	{
+	    case 's':
+		printf("Please input the book's ISBN:\n");
+  		gets(num);
+		bkl=search(head,num);
+		if(bkl == NULL)
+		{
+		    printf("The book isn't exist.\n");
+                }else{
+                    printf("%s\t%s\t%s\t%f\n",bkl->name,bkl->author,bkl->ISBN,bkl->price);
+                }
+		break;
+	    case 'i':
+		Book_insert(bkl);
+		Book_browse(head);
+                break;
+	    case 'm':
+		gets(num);
+		Book_modify(head,num);
+                Book_browse(head);
+		break;
+	    case 'd':
+		printf("Please input the book's ISBN:\n");
+		gets(num);
+		bkl=delete(head,num);
+                if(bkl == NULL)
+                {
+		    printf("Can't delete!\n");
+                }else{
+                    Book_browse(bkl);
+	        }
+                break;
+           case 'b':
+                Book_browse(head);
+                break;
+           default:errcmd();
+       }
+    }while(1);
+}
+ 
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
