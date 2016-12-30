@@ -12,7 +12,7 @@ void output(book* head)
  book* p;
  p=head;
  while(p!=NULL)
-{ printf("%s\t%s\t%d\t%f\n",p->name,p->authur,p->isbn,p->price);
+{ printf("%s\t%s\t%s\t%f\n",p->name,p->authur,p->isbn,p->price);
   p->next;};
 }
 
@@ -28,7 +28,7 @@ book* insert(book* head)
  printf("输入作者名\n");
  scanf("%s",newp->authur);
  printf("输入图书ISBN码\n");
- scanf("%d",newp->isbn);
+ scanf("%s",newp->isbn);
  printf("输入图书价格\n");
  scanf("%d",newp->price);
  newp->next=head;
@@ -39,7 +39,7 @@ book* insert(book* head)
 /*
  *delete one book from list according to ISBN.
  */
-void delete(book* head,int isbn)
+void delete(book* head,char isbn[14])
 {
  book* p;
  book* newp;
@@ -47,7 +47,7 @@ void delete(book* head,int isbn)
  newp=NULL;
 while(p!=NULL)
 {
- if(p->isbn==isbn)
+ if(strcmp(p->isbn,isbn)==0)
  break;
  newp=p;p=p->next;
 };
@@ -77,7 +77,7 @@ book* load()
  while(!feof(fp))
 {
  book* newp=(book*)malloc(sizeof(book));
- fscanf(fp,"%s %s %d %f",newp->name,newp->authur,&newp->isbn,&newp->price);
+ fscanf(fp,"%s %s %s %f",newp->name,newp->authur,newp->isbn,&newp->price);
  if(feof(fp))
 {
  fclose(fp);
@@ -93,15 +93,15 @@ book* load()
 /*
  *find one book according to  ISBN.
  */
-book* search(book* head,int isbn)
+book* search(book* head,char isbn[14])
 {
  book* p;
  p=head;
  while(p!=NULL)
 {
- if(p->isbn==isbn)
+ if(strcmp(p->isbn,isbn)==0)
 {
- printf("%s\t%s\t%d\t%f\n",p->name,p->authur,p->isbn,p->price);return p;
+ printf("%s\t%s\t%s\t%f\n",p->name,p->authur,p->isbn,p->price);return p;
 }
  p=p->next;
 };
@@ -123,7 +123,7 @@ void save(book* head)
  p=head;
  while(p!=NULL)
 {
- fprintf(fp,"%s%s%d%f",p->name,p->authur,p->isbn,p->price);
+ fprintf(fp,"%s%s%s%f",p->name,p->authur,p->isbn,p->price);
  p=p->next;
 }
  fclose(fp);
@@ -133,7 +133,7 @@ void save(book* head)
 /*
  *update one book from list according to ISBN.
  */
-void update(book* head,int isbn)
+void update(book* head,char isbn[14])
 {
  book* Search;
  Search=search(head,isbn);
@@ -144,7 +144,7 @@ void update(book* head,int isbn)
  printf("请输入作者名\n");
  scanf("%s",Search->authur);
  printf("请输入ISBN码\n");
- scanf("%d",&Search->isbn);
+ scanf("%s",Search->isbn);
  printf("请输入价格\n");
  scanf("%f",&Search->price);
 }}

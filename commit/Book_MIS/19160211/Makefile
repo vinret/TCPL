@@ -1,4 +1,4 @@
-Book_Mis:main.o command.o book.o
+Book_Mis:main.o command.o book.o	
 	gcc -o Book_Mis main.o book.o command.o
 main.o:	
 	gcc -c main.c
