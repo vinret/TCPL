@@ -1,5 +1,15 @@
 #include<stdio.h>
 #include"command.h"
+int check()
+{
+		int name,pass;
+		printf("请输入用户名及密码: ");
+		scanf("%d %d",&name,&pass);
+		if((name==191602)&&(pass==191602))
+				return 1;
+		else
+				return 0;
+}
 void meau()
 {
 		printf("欢迎使用图书装逼管理系统！\n");

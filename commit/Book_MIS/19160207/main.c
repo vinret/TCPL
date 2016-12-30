@@ -5,6 +5,9 @@
 #include"command.h"
 void main()
 {
+		if(check()==0)  // 请输入用户名及密码
+				printf("你无权使用本系统，滚！\n");
+		else{
 		int xz = 1;
 		Book* head;
 		head = (Book*)malloc(sizeof(Book)); //分配头节点空间，建立空链表
@@ -26,6 +29,7 @@ void main()
 								case 0:
 								       printf("谢谢使用！\n");break;
 						}
+					}
 				}
 		}
 }
