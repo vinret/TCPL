@@ -24,10 +24,11 @@ int Load(struct Book *pbook)
 {
 	FILE *fp;
 	int i;
-    fp=fopen("book.csv","r");
-    for(i=0;fscanf(fp,"%s %s %d %f",pbook[i].name,pbook[i].author,&pbook[i].ISBN,&pbook[i].price)!=EOF;i++);
+        fp=fopen("book.csv","r");
+	for(i=0;feof(fp)==0;i++)
+		fscanf(fp,"%s %s %d %f",pbook[i].name,pbook[i].author,&pbook[i].ISBN,&pbook[i].price);
     fclose(fp);
-    return i;
+    return i-1;
 }
 
 int Delete(struct Book book[],int n,int ISBN)

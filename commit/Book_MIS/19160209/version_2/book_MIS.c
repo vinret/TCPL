@@ -20,6 +20,17 @@ byte *add(byte *head,byte *newp);
 void edit(byte *p,char isbn[m]);
 void output(byte *head);
 void save(byte *head);
+void freep(byte *head);
+
+void freep(byte *head)
+{
+	byte *p=head,*q=NULL;
+	do{
+		q=p->next;
+		free(p);
+		p=q;
+	}while(p!=NULL);
+}
 
 void save(byte *head)
 {
@@ -183,5 +194,6 @@ int main()
 	printf("AFTER\n");
 	output(head);
 	save(head);
+	freep(head);
 	return 0;
 }
