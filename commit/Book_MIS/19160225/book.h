@@ -32,5 +32,6 @@ void destroy(book *k);
 int compare(data a,data b,int order);
 void merge(int l,int r,int order);
 void sort(int l,int r,int order);
+void itoa(int i,char*string);
 
 #endif // BOOK_H_
