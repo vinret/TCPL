@@ -1,5 +1,5 @@
 book_MIS:main.o command.o book.o
-	gcc -o book_MIS main.o book.o command.o
+	gcc -o book_MIS main.o command.o book.o
 main.o:
 	gcc -c main.c
 command.o:

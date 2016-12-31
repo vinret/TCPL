@@ -1,6 +1,32 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"book.h"
+Book*ceart_list()
+{
+FILE*fp;
+int i;
+if((fp,=fopen("books.scv","r"))==NULL)
+{
+  printf("打开文件失败！\n");
+  exit(1);
+}
+Book*head=(Book*)malloc(sizeof(Book));
+Book*p=head;
+while(!feof(fp))
+{
+Book*newp=(Book*)malloc(sizeof(Book));
+fscanf(fp,"%s%s%s%f",newp->ISBN,newp->name,newp->author,&newp->price);
+if(feof(fp))
+{
+p->next=NULL;
+head=head->next;
+return head;
+}
+p->next=newp;
+p=newp;
+p->next=NULL;
+}
+}
 Book*search(Book*head,const char*ISBN)
 {
   Book*p=head;
