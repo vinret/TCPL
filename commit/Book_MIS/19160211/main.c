@@ -5,7 +5,8 @@
 #include "book.h"
 int main()
 {
- int choice,isbn;
+ int choice;
+ char isbn[14];
  book* head;
  head=load();
 while(1)
@@ -17,7 +18,7 @@ while(1)
 {
   case 1:
   printf("请输入书籍的ISBN码\n");
-  scanf("%d",&isbn);
+  scanf("%s",isbn);
   search(head,isbn);
   break;
 
@@ -30,7 +31,7 @@ while(1)
 
   case 3:
   printf("请输入待删图书在ISBN码\n");
-  scanf("%d",&isbn);
+  scanf("%s",isbn);
   delete(head,isbn);
   break;
 
@@ -40,11 +41,12 @@ while(1)
 
   case 5:
   printf("输入待更新书籍在ISBN码\n");
-  scanf("%d",&isbn);
+  scanf("%s",isbn);
   update(head,isbn);
   break;
 
   default:printf("指令错误!\n");
+  printf("\n");
 } while(1);
   return 0;
 }
