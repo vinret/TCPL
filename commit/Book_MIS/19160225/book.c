@@ -14,8 +14,8 @@ void menu(){
 }
 void openfile(int t){
 	char s[100];
-	itoa(t,file,10);
-	itoa(++num[t],s,10);
+	itoa(t,file);
+	itoa(++num[t],s);
 	strcat(file,"(");
 	strcat(file,s);
 	strcat(file,").csv");
@@ -123,3 +123,16 @@ void sort(int l,int r,int order){
 	fclose(fp);
 	return;
 }
+void itoa(int i,char*string)
+      {
+      int power,j;
+      j=i;
+      for(power=1;j>=10;j/=10)
+      power*=10;
+      for(;power>0;power/=10)
+       {
+           *string++='0'+i/power;
+           i%=power;
+       }
+      *string='\0';
+     }
