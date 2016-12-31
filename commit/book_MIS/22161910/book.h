@@ -9,8 +9,7 @@ struct Book
 struct Book *next;
 };
 typedef struct Book Book;
-Book*creat_list();
-typedef Book*cread_list Book*head;
+Book*create_list();
 Book*search(Book*head,const char*ISBN);
 Book*update(Book*head,const char*ISBN);
 int insert(Book**head);

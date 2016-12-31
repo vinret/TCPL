@@ -7,7 +7,9 @@ int main()
 {
 char cmd,n[14];
 char filename[]="books.scv";
-Book*head();
+Book*create_list();
+Book*head;
+head=create_list();
 Book*bk1=NULL;
 menu();
 cmd=getchar();//读取命令

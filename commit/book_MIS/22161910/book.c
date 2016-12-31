@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"book.h"
-Book*ceart_list()
+Book*cearte_list()
 {
 FILE*fp;
 int i;
-if((fp,=fopen("books.scv","r"))==NULL)
+if((fp=fopen("books.scv","r"))==NULL)
 {
   printf("打开文件失败！\n");
   exit(1);
