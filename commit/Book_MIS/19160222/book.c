@@ -94,7 +94,7 @@ void insert()
 		printf("Name:");
 		my_gets(c,50);
 		strcpy(bookAry[size].name,c);
-		printf("Auther:");
+		printf("Author:");
 		my_gets(c,50);
 		strcpy(bookAry[size].auther,c);
 		printf("Price:");
@@ -122,7 +122,7 @@ void update()
 		printf("Name:");
 		my_gets(c,50);
 		strcpy(bookAry[size-1].name,c);
-		printf("Auther:");
+		printf("Author:");
 		my_gets(c,50);
 		strcpy(bookAry[size-1].auther,c);
 		printf("Price:");
@@ -136,13 +136,13 @@ void update()
 void List(int size)
 {
 	int i,j;
-	printf("Name\tAuther\tISBN\tPrice\n");
+	printf("Name			Author			ISBN			Price\n");
 	for(i=0;i<size;i++)
 		{
-			printf("%s\t",bookAry[i].name);
-			printf("%s\t",bookAry[i].auther);
-			printf("%s\t",bookAry[i].ISBN);
-			printf("%.2f\n",bookAry[i].price);
+			printf("%-20s\t",bookAry[i].name);
+			printf("%-20s\t",bookAry[i].auther);
+			printf("%-20s\t",bookAry[i].ISBN);
+			printf("%-20.2f\n",bookAry[i].price);
 		}
 	printf("\n");
 }
@@ -151,10 +151,10 @@ int loadArry()
 {
 	FILE *fp;
 	fp=fopen("books.csv","r");
-	char line[50];
-	char info[4][20];
+	char line[100];
+	char info[4][50];
 	int i,j=0,k=0,l=0;
-		while(fgets(line,50,fp)!=NULL)
+		while(fgets(line,100,fp)!=NULL)
 			{
 				for(i=0;i<strlen(line);i++)
 					if(line[i]==',')
@@ -190,7 +190,7 @@ int saveAs(int size)
 			fprintf(fp,"%s,",bookAry[i].name);
 			fprintf(fp,"%s,",bookAry[i].auther);
 			fprintf(fp,"%s,",bookAry[i].ISBN);
-			fprintf(fp,"%f\n",bookAry[i].price);
+			fprintf(fp,"%.2f\n",bookAry[i].price);
 		}
 	fclose(fp);
 	return 0;
@@ -198,20 +198,25 @@ int saveAs(int size)
 
 int menu()
 {
-	printf("==Welcome your library==\n");
-	printf("There are %d books in your library\n",size);
+	printf("    ==Welcome your library==\n");
+	if(size>=2)
+		printf("There are %d books in your library\n",size);
+	else
+		printf("There are %d book in your library\n",size);
 	printf("(S)earch the information of books\n");
 	printf("(I)nsert the information of books\n");
 	printf("(D)elete the information of books\n");
 	printf("(U)pdate the information of books\n");
 	printf("(A)ll books\n");
 	printf("(Q)uit this interface\n");
+	printf("What do you want to do:");
 	return 0;
 }
 
 int errCmd()
 {
 	printf("Error Command!\n");
+	printf("\n");
 	return -1;
 }
 
@@ -237,7 +242,7 @@ int main()
 			case 'i':
 				printf("enter the information of the book:\n");
 				insert();
-				printf("%s %s %s %.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
+				printf("%s\t%s\t%s\t%.2f\n",bookAry[size-1].name,bookAry[size-1].auther,bookAry[size-1].ISBN,bookAry[size-1].price);
 				printf("\n");
 				break;
 			case 's':
